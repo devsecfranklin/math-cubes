@@ -1,4 +1,3 @@
-/* gcc -o cube cube.c -m */
 #include <math.h>
 #include <stdio.h>
 #include <string.h>
