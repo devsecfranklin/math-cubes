@@ -1,6 +1,8 @@
-#!/bin/bash
+# freeglut
 
-# https://freeglut.sourceforge.net/
-#https://rosettacode.org/wiki/Draw_a_rotating_cube#C
+[freeglut](https://freeglut.sourceforge.net/)
+[rosetta](https://rosettacode.org/wiki/Draw_a_rotating_cube#C)
 
-gcc freeglut-cube.c -o fg -lGL -lGLU -lglut 
+```sh
+gcc freeglut-cube.c -o fg -lGL -lGLU -lglut
+```
